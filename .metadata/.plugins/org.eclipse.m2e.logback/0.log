@@ -714,3 +714,6 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.xmlunit:x
 2025-10-27 14:55:47,625 [Worker-13: Launching Personal_NoteApp - PersonalNoteAppApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-10-27 14:55:47,696 [Worker-13: Launching Personal_NoteApp - PersonalNoteAppApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-10-27 14:55:47,710 [Worker-13: Launching Personal_NoteApp - PersonalNoteAppApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ReactProject\Personal_NoteApp\Workspace_NoteApp\Personal_NoteApp\src\test\resources
+2025-10-27 15:05:56,116 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-27 15:05:56,149 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-27 15:05:56,158 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\ReactProject\Personal_NoteApp\Workspace_NoteApp\Personal_NoteApp\src\test\resources
