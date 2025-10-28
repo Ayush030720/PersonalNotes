@@ -12,8 +12,8 @@ INDEX VERSION 1.134+C:\ReactProject\Personal_NoteApp\Workspace_NoteApp\.metadata
 2139926362.index
 3094107562.index
 1630526027.index
-1159508795.index
 888850348.index
+1159508795.index
 4243466542.index
 2212284177.index
 1556477191.index
@@ -30,11 +30,11 @@ INDEX VERSION 1.134+C:\ReactProject\Personal_NoteApp\Workspace_NoteApp\.metadata
 130815646.index
 2392118494.index
 2145344739.index
-1191044206.index
 3116792806.index
 2378427521.index
-2710941905.index
+1191044206.index
 1619272272.index
+2710941905.index
 2911641208.index
 1865797976.index
 811141283.index

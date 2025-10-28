@@ -9,7 +9,7 @@ import lombok.*;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-@Document(collation = "Notes")
+@Document(collection = "Notes")
 public class Note {
 	 @Id
 	    private String id;

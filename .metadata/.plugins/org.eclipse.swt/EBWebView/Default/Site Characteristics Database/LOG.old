@@ -1,3 +1,5 @@
-2025/10/27-12:57:05.143 1d8c Reusing MANIFEST C:\ReactProject\Personal_NoteApp\Workspace_NoteApp\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
-2025/10/27-12:57:05.144 1d8c Recovering log #3
-2025/10/27-12:57:05.147 1d8c Reusing old log C:\ReactProject\Personal_NoteApp\Workspace_NoteApp\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/000003.log 
+2025/10/28-15:47:16.798 4658 Log #3: 1 ops saved to Table #4 OK
+2025/10/28-15:47:16.804 4658 Archiving C:\ReactProject\Personal_NoteApp\Workspace_NoteApp\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/000003.log: OK
+2025/10/28-15:47:16.804 4658 Table #4: 1 entries OK
+2025/10/28-15:47:16.807 4658 Archiving C:\ReactProject\Personal_NoteApp\Workspace_NoteApp\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/MANIFEST-000001: OK
+2025/10/28-15:47:16.813 4658 **** Repaired leveldb C:\ReactProject\Personal_NoteApp\Workspace_NoteApp\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database; recovered 1 files; 130 bytes. Some data may have been lost. ****
